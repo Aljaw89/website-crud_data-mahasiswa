@@ -1,0 +1,28 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #00acb5e1;
+    text-transform: uppercase;
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
+
+.login {
+    border: 0;
+    height: 500px;
+    margin: auto;
+}
+
+.login h4{
+    margin-top: 500px;
+}
+
+form .form-group input{
+    margin: auto;
+}
+
+form .user input{
+    margin: auto;
+    margin-top: 70px;
+}
